@@ -1,0 +1,13 @@
+1 burak ates 99 99 
+2 ahmet yilmaz 67 34 
+3 ayse ok 56 89 
+4 mucahit ince 42 12 
+5 ayhan yigit 42 42 
+6 adnan koc 78 90 
+7 irem yilmaz 34 54 
+8 eren tas 32 41 
+9 ceyda canan 45 45 
+10 osman atli 78 87 
+11 hasan mert 12 84 
+12 kemal ayranci 50 50 
+13 esra akyurt 90 83 
